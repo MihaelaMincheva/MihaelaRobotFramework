@@ -20,7 +20,7 @@ I Am Adding a Product To The Cart
 
 I Am Successfully Added To Cart
     Wait Until Page Contains Element  ${successfully_added_to_cart}  ${TIMEOUT}
-
-
-
-
+#
+#
+#
+#

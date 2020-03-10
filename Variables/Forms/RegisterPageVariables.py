@@ -8,4 +8,4 @@ Option = "2"
 Zip = "01000"
 Mobile = "01232323232"
 alias = "testing"
-Invalid_Email = "mihaela.mincheva.gmail.com"
+
