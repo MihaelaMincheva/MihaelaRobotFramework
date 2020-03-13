@@ -5,5 +5,6 @@ REGISTER_URL = "https://"+SERVER+"/index.php?controller=authentication&back=my-a
 
 DELAY = "0.8"
 TIMEOUT = "15"
+NUMBER_2 = "2"
 NUMBER_8 = "8"
 user_email_part_2 = "@gmail.com"
