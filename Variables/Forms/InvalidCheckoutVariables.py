@@ -1,0 +1,1 @@
+URL_product = "http://automationpractice.com/index.php?id_product=2&controller=product"

@@ -1,0 +1,7 @@
+cart_button_add = "xpath=//button[@name='Submit']"
+added_to_cart = "xpath=//i[@class='icon-ok']"
+proceed_to_checkout = "xpath=//a[@class='btn btn-default button button-medium']"
+proceed_to_checkout_b = "xpath=//a[@class='btn btn-default button button-medium']"
+cart_summary = "xpath=//h1[@id='cart_title']"
+button = "xpath=//a[@class='btn btn-default button button-medium']"
+checkout_button = "xpath=//a[@class='button btn btn-default standard-checkout button-medium']"
